@@ -17,7 +17,7 @@ Ce dépôt contient l'analyse complète des données de ventes et des investisse
   - Cartographie interactive pour visualiser la répartition géographique des magasins.
 
 - `performance_analysis.py`  
-  Utilise un algorithme de clustering (K-Means) pour regrouper les points de vente en fonction de leurs performances.  
+  Utilise un algorithme de clustering (`K-Means`) pour regrouper les points de vente en fonction de leurs performances.  
   **Principales sorties :**  
   - Segmentation des magasins selon leurs caractéristiques (ventes, investissements, ROI).  
   - Graphiques pour explorer les groupes identifiés.
@@ -39,9 +39,9 @@ Ce dépôt contient l'analyse complète des données de ventes et des investisse
 Assurez-vous d'avoir les outils suivants installés :  
 - Python 3.7 ou supérieur.  
 - Les bibliothèques Python suivantes :  
-  ```bash
-  pip install pandas matplotlib seaborn scikit-learn pgeocode
-  ```
+```bash
+pip install pandas matplotlib seaborn scikit-learn pgeocode
+```
 
 ## 🚀 Utilisation
 
