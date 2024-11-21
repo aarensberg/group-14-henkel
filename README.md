@@ -41,10 +41,3 @@ Grâce aux scripts fournis, il est possible de :
 2. **Identifier des segments de magasins** performants ou sous-performants.  
 3. **Visualiser les tendances** des ventes pour des décisions éclairées.  
 4. **Optimiser l'allocation des ressources** pour maximiser le ROI.
-
----
-
-## 📜 Licence et Confidentialité
-
-Ce projet est sous licence [MIT](LICENSE).  
-Toute utilisation des scripts est conditionnée au respect des règles de confidentialité concernant les données Henkel.
