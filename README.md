@@ -45,36 +45,36 @@ pip install pandas matplotlib seaborn scikit-learn pgeocode
 
 ## 🚀 Utilisation
 
-	1.	Clonez le dépôt :
+1.	Clonez le dépôt :
  
 ```bash
 git clone https://github.com/votre-utilisateur/henkel-performance-analysis.git
 cd henkel-performance-analysis
 ```
 
-	2.	Exécutez les scripts selon vos besoins :
+2.	Exécutez les scripts selon vos besoins :
  
-	•	Analyse de l’impact des investissements :
+•	Analyse de l’impact des investissements :
 ```bash
 python investment_impact.py
 ```
 
-	•	Géolocalisation et cartographie :
+•	Géolocalisation et cartographie :
 ```bash
 python map.py
 ```
 
-	•	Analyse des performances avec clustering :
+•	Analyse des performances avec clustering :
 ```bash
 python performance_analysis.py
 ```
 
-	•	Analyse du retour sur investissement :
+•	Analyse du retour sur investissement :
 ```bash
 python roi_analysis.py
 ```
 
-	•	Analyse de l’évolution des ventes :
+•	Analyse de l’évolution des ventes :
 ```bash
 python sales_evolution_analysis.py
 ```
